@@ -1,0 +1,1 @@
+{"control_enabled":true,"crop":"tomato","days":7,"dt_minutes":5.0,"greenhouse":{"co2_flow_g_min":5.0,"fan_power_w":120.0,"floor_area_m2":24.0,"heater_power_w":1500.0,"irrigation_flow_l_min":2.0,"lights_power_w":400.0,"soil_depth_m":0.3,"thermal_tau_min":45.0,"wetted_soil_volume_l":500.0},"mode":"auto","seed":42,"start_date":"2026-11-12"}
