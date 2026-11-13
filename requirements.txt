@@ -1,0 +1,6 @@
+# Runtime dependencies: none beyond the Python 3.10+ standard library.
+# Chart.js for the dashboard is loaded from CDN at view time, not installed.
+# Optional (PNG charts only):
+# matplotlib>=3.8
+# Dev/test dependency:
+pytest>=8
